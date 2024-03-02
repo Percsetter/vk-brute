@@ -1,0 +1,16 @@
+{
+  "name": "vk-brute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/brute.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/brute.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.24",
+    "axios": "^1.6.7"
+  }
+}
